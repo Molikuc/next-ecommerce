@@ -1,4 +1,4 @@
-#NEXT ECOMMERCE PROJECT
+# NEXT ECOMMERCE PROJECT
 
 This project is created following a course from Developedbyed on the site https://developedbyed.com/ <br>
 It's an ecommerce project where you can :
